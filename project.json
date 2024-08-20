@@ -6,6 +6,7 @@
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.4]",
     "UiPath.MicrosoftOffice365.Activities": "[2.6.25]",
+    "UiPath.PDF.Activities": "[3.19.1]",
     "UiPath.System.Activities": "[24.10.3]",
     "UiPath.UIAutomation.Activities": "[24.10.0]"
   },

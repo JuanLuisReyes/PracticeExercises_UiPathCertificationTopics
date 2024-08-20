@@ -56,6 +56,54 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "Associate topics/ReadNativePDF.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "outputOCR&Sequence_1",
+        "outputPDF&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Associate topics/VBNet_Expression.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "strVar&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Associate topics/ForEachWordFile.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Associate topics/JoinTwoLists.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "IndiaCities&Sequence_1",
+        "FranceCities&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/CV_Exercices/RPA_Challenge_CV.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }
