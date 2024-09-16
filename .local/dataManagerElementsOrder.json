@@ -11,7 +11,9 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [],
+      "VariablesSectionElementsOrder": [
+        "ExtractDataTable&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -98,9 +100,59 @@
       "AddedNamespaces": null
     },
     {
-      "Path": "AdvancedTopics/CV_Exercices/LoanApplicationAutomation.xaml",
+      "Path": "AdvancedTopics/ComputerVision/LoanApplicationAutomation.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/StateMachines/TriggerTransition.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bln_Clicked&StateMachine_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/Remote Debugging/RemoteDebugging.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_Weather&Sequence_2",
+        "str_Country&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQMethods.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_ProductsUpdated&Sequence_5",
+        "dt_Products&Sequence_5",
+        "dt_ProductsCloned&Sequence_5",
+        "str_FilteredInfo&Sequence_4",
+        "dt_FilteredInfo&Sequence_4",
+        "dt_InvoicesInfo&Sequence_4",
+        "arr_Numbers&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQQuery.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_InvoicesInfo&Sequence_4",
+        "dt_FilteredInfo&Sequence_4",
+        "str_FilteredInfo&Sequence_4",
+        "arr_Numbers&Sequence_1"
+      ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
