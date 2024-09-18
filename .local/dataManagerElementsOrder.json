@@ -132,9 +132,6 @@
       "Path": "AdvancedTopics/LINQ/LinQMethods.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
-        "str_ProductsUpdated&Sequence_5",
-        "dt_Products&Sequence_5",
-        "dt_ProductsCloned&Sequence_5",
         "str_FilteredInfo&Sequence_4",
         "dt_FilteredInfo&Sequence_4",
         "dt_InvoicesInfo&Sequence_4",
@@ -148,10 +145,64 @@
       "Path": "AdvancedTopics/LINQ/LinQQuery.xaml",
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
+        "dt_ProductsCloned&Sequence_8",
+        "dt_Products&Sequence_8",
+        "str_ProductsUpdated&Sequence_8",
+        "dt_ProductsCloned&Sequence_5",
+        "dt_Products&Sequence_5",
+        "str_ProductsUpdated&Sequence_5",
         "dt_InvoicesInfo&Sequence_4",
         "dt_FilteredInfo&Sequence_4",
         "str_FilteredInfo&Sequence_4",
         "arr_Numbers&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LINQ_RemoveCurrencyFromColumn.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_OutputTable&Sequence_1",
+        "dt_ClonedTable&Sequence_1",
+        "dt_InvoicesTable&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LINQ_FirstMethod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_StoreItemsTable&Sequence_1",
+        "str_OutputResult&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_Where.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_FilteredInfo&Sequence_4",
+        "str_Result&Sequence_4",
+        "dt_ClonedTable&Sequence_4",
+        "dt_StoreItems&Sequence_4",
+        "arr_Greetings&Sequence_3",
+        "arr_Numbers&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_SelectMethod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "arr_Numbers&Sequence_2"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
