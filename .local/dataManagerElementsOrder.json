@@ -11,9 +11,7 @@
     {
       "Path": "Main.xaml",
       "SortBy": 0,
-      "VariablesSectionElementsOrder": [
-        "ExtractDataTable&Sequence_1"
-      ],
+      "VariablesSectionElementsOrder": [],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
@@ -203,6 +201,66 @@
       "SortBy": 0,
       "VariablesSectionElementsOrder": [
         "arr_Numbers&Sequence_2"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_GroupingMethod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_GroupedTable&Sequence_1",
+        "str_Result&Sequence_1",
+        "dt_StoreItems&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_SumGrouping.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_GroupedValues&Sequence_1",
+        "str_GroupedValues&Sequence_1",
+        "dt_StoreItems&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_MinMethod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "int_MinPrice&Sequence_1",
+        "dt_StoreItems&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_AverageMethod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_AverageTable&Sequence_1",
+        "dt_StoreItems&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_Ordering_ASC_DSC.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_DSC&Sequence_1",
+        "str_ASC&Sequence_1",
+        "dt_StoreItems&Sequence_1",
+        "dt_DSCOrder&Sequence_1",
+        "dt_ASCOrder&Sequence_1"
       ],
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
