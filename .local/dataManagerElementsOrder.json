@@ -265,6 +265,69 @@
       "ArgumentsSectionElementsOrder": [],
       "ConstantsSectionElementsOrder": [],
       "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_Advanced_ASC_DSC_Ordering.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_DSCResult&Sequence_1",
+        "dt_ASCResult&Sequence_1",
+        "str_OrderedValues&Sequence_1",
+        "dt_StoreItems&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_JoinMethod.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "dt_JoinedTables&Sequence_2",
+        "dt_Sections&Sequence_1",
+        "dt_StoreItems&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_Any_All_Methods.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "bln_Result&Sequence_1",
+        "dt_StoreItems&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/LINQ/LinQ_SkipWhile_TakeWhile.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "str_FilteredResult&Sequence_1",
+        "dt_SMarks&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/Integration Service/OneDrive_CreateNewFolder.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "AdvancedTopics/Integration Service/OneDrive_TriggerWhenFileCreated.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
     }
   ]
 }

@@ -5,6 +5,7 @@
   "main": "Main.xaml",
   "dependencies": {
     "UiPath.Excel.Activities": "[2.23.4]",
+    "UiPath.GSuite.Activities": "[2.7.22]",
     "UiPath.MicrosoftOffice365.Activities": "[2.6.25]",
     "UiPath.PDF.Activities": "[3.19.1]",
     "UiPath.System.Activities": "[24.10.3]",
@@ -14,7 +15,7 @@
   "entitiesStores": [],
   "schemaVersion": "4.0",
   "studioVersion": "24.10.1.0",
-  "projectVersion": "1.0.1",
+  "projectVersion": "1.0.5",
   "runtimeOptions": {
     "exceptionHandlerWorkflow": "Associate topics\\GlobalHandler.xaml",
     "autoDispose": false,
