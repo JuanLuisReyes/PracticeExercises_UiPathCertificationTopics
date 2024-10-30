@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Get Text  Result",
+  "Type": "Element",
+  "TaxonomyType": "Label",
+  "Id": "Yxn6HsrSwkW5yPhcXWytrA",
+  "Reference": "Y5PC5QVVukC604Kkrmn1LA/Yxn6HsrSwkW5yPhcXWytrA",
+  "ParentRef": "Y5PC5QVVukC604Kkrmn1LA/LykKqhwgDE2gM8j7ygp7LQ",
+  "Created": "2024-10-23T21:37:03.9739331Z",
+  "Updated": "2024-10-23T21:37:03.9739331Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.10.3.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

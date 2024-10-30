@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="oJrVHN4LuUqnRoQUbJhjQg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com.mx/search?q=weather+in+Madrid&amp;sca_esv=6e60afa0b7ae2977&amp;sxsrf=ADLYWII9RvuZNYrXP0ITkFVIhP20qTYr5Q%3A1725733392980&amp;ei=EJrcZsC-O6XIkPIP_tmQ8QY&amp;ved=0ahUKEwjAhvbuubGIAxUlJEQIHf4sJG4Q4dUDCBA&amp;uact=5&amp;oq=weather+in+Madrid&amp;gs_lp=Egxnd3Mtd2l6LXNlcnAiEXdlYXRoZXIgaW4gTWFkcmlkMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLATIIEAAYgAQYywEyCBAAGIAEGMsBMggQABiABBjLAUi8DlCFBljyDHACeAGQAQCYAXqgAfsEqgEDMS41uAEDyAEA-AEBmAIIoAKbBcICChAAGLADGNYEGEfCAg0QABiABBiwAxhDGIoFwgIOEAAYsAMY5AIY1gTYAQHCAhMQLhiABBiwAxhDGMgDGIoF2AECwgIZEC4YgAQYsAMY0QMYQxjHARjIAxiKBdgBAsICChAAGIAEGEMYigXCAgUQABiABJgDAIgGAZAGE7oGBggBEAEYCboGBggCEAEYCJIHAzMuNaAHoyI&amp;sclient=gws-wiz-serp" DesignTimeRectangle="300, 222, 52, 60" DesignTimeScaleFactor="1" ElementType="Text" FullSelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' /&gt;" FuzzySelectorArgument="&lt;webctrl id='wob_tm' tag='SPAN' type='' class='wob_t q8U8x' /&gt;" Guid="20a8d6b3-9cbb-473b-99ef-f19f93d475b0" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='weather in* - Buscar con Google' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="5441e37e69eab32355c7db039378672e.png" xmlns="">0UEH1MfqCWUO_Y1P-e2zGvA</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">GetText</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

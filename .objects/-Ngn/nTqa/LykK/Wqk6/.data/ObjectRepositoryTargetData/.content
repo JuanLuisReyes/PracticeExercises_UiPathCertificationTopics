@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="jC3MClcxYkONMMC7cR468w" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://www.google.com.mx/" DesignTimeRectangle="812, 634, 153, 36" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl aria-role='button' tag='INPUT' type='submit' aaname='Buscar con Google' idx='2' /&gt;" FuzzySelectorArgument="&lt;webctrl aria-role='button' tag='INPUT' type='submit' aaname='Buscar con Google' class='gNO89b' check:text='Buscar con Google' /&gt;" Guid="bb1d2ecd-fe65-4e4d-a265-10cd5f676d93" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Google' /&gt;" SearchSteps="Selector" Version="V4" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="6392571a3661fda5a813ce2f4dd81b33.png" xmlns="">0tHs9RFSViE6-ZVHVRvQjtQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

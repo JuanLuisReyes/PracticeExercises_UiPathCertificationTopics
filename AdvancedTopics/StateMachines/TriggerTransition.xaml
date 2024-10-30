@@ -119,7 +119,7 @@
       </sap:WorkflowViewStateService.ViewState>
       <State x:Name="__ReferenceID1" DisplayName="State" sap:VirtualizedContainerService.HintSize="190,80" sap2010:WorkflowViewState.IdRef="State_1">
         <State.Entry>
-          <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Use Browser Chrome: Rpa Challenge" sap:VirtualizedContainerService.HintSize="450,322" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="IfNotOpen" ScopeGuid="23c6e7b5-ff76-4bbc-89f5-c6f8ad266bec" Version="V2">
+          <uix:NApplicationCard AttachMode="ByInstance" DisplayName="Chrome Rpa Challenge" sap:VirtualizedContainerService.HintSize="450,322" sap2010:WorkflowViewState.IdRef="NApplicationCard_1" InteractionMode="DebuggerApi" OpenMode="IfNotOpen" ScopeGuid="23c6e7b5-ff76-4bbc-89f5-c6f8ad266bec" Version="V2">
             <uix:NApplicationCard.Body>
               <ActivityAction x:TypeArguments="x:Object">
                 <ActivityAction.Argument>
@@ -135,7 +135,7 @@
               </ActivityAction>
             </uix:NApplicationCard.Body>
             <uix:NApplicationCard.TargetApp>
-              <uix:TargetApp Area="-8, -8, 1936, 1048" BrowserType="Chrome" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAScwAAEnMBjCK5BwAAAtRJREFUWEfllj9IalEcx83NHBShINucRAijLQiXttAgSHBwEIeGxFqqqaVNJyFIBQeJhghCRNFBBF20moIGBy1CMAgU+kNDKnLeO9ffPfce77npfdfHG94HfuD5/n7ne75e9V416B+jKsDd3R3SaDRc1Wo1UJWhKoBOpyMBFhcXQVWGqgDLy8skgMPhAFUZqgI8Pz9zh29vb4OiHFUBQqEQF0ANqnZbrVa0trYGqz9DcYBOp4MKhQK6vr7m3r3L5UKXl5eoVCqhr68vmJqciQLc3NygjY0N8oUbVx6PB9Xrddj9Mz8GaLVayGQyMQ/BpdVqmTpf+CP6/v4GNzayAWKxmMQwEAigarUKE1KKxSLyer2SfViXgxng9PSUMohEItCZnIODA8pDLoQkQKPRoDb2ej3oKKfZbI71kgQQ315HeXx8RKlUClZSkskkent7g9WQl5cX4reysgKqAHVKuVwmw+fn56AK8L1MJgOKwMnJCemPcnh4SHrtdhvUIdT05uamrAm+fHwvHo+DKhAMBmX3Yvje0dERKEOo6ZmZGW5ofX0dFIF+v09MEokEqAL7+/ukz8JsNnM9m80GyhBqmjcYTYnpdrukH41GQRXY3d0lfRZyV5esXl9fycDZ2RmoNHz//v4eFIGLiwuuZzQaQaHZ29sj+8WQ1e3tLRkIh8OgSvn8/IRXUvCbkMPn8xH/9/d3UEUBcrkcGVhYWAB1evDeuJ6enkAVBcjn89SQ0+mEjnqWlpYob2aAh4cHaogvv9/Phfv4+IDJ8eDfOr5hud1upudgMIBJUQAMa5hVer0ezc/Pc39Ecc3NzVF30HElhlptbW0xN0yzjo+P4bQhdJzfsDZNq/CVG0USAIMvKctATdntdnCnYQbApNNpZLFYmGZKCj8BK5UKuEqRDSDm6uoK7ezscGazs7PMg3AZDAa0urrKPRey2Szs/pmJAvxN/vcACP0CD7ydk7gYAkEAAAAASUVORK5CYII=" InformativeScreenshot="2de7c9ab391f6fdc794f8064580bdd6f.jpg" Selector="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" Title="Rpa Challenge" Url="https://rpachallenge.com/" />
+              <uix:TargetApp Area="-8, -8, 1936, 1048" BrowserType="Chrome" ContentHash="lw12vX4nMEm-csd-KydjkA" IconBase64="iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAAlwSFlzAAAScwAAEnMBjCK5BwAAAtRJREFUWEfllj9IalEcx83NHBShINucRAijLQiXttAgSHBwEIeGxFqqqaVNJyFIBQeJhghCRNFBBF20moIGBy1CMAgU+kNDKnLeO9ffPfce77npfdfHG94HfuD5/n7ne75e9V416B+jKsDd3R3SaDRc1Wo1UJWhKoBOpyMBFhcXQVWGqgDLy8skgMPhAFUZqgI8Pz9zh29vb4OiHFUBQqEQF0ANqnZbrVa0trYGqz9DcYBOp4MKhQK6vr7m3r3L5UKXl5eoVCqhr68vmJqciQLc3NygjY0N8oUbVx6PB9Xrddj9Mz8GaLVayGQyMQ/BpdVqmTpf+CP6/v4GNzayAWKxmMQwEAigarUKE1KKxSLyer2SfViXgxng9PSUMohEItCZnIODA8pDLoQkQKPRoDb2ej3oKKfZbI71kgQQ315HeXx8RKlUClZSkskkent7g9WQl5cX4reysgKqAHVKuVwmw+fn56AK8L1MJgOKwMnJCemPcnh4SHrtdhvUIdT05uamrAm+fHwvHo+DKhAMBmX3Yvje0dERKEOo6ZmZGW5ofX0dFIF+v09MEokEqAL7+/ukz8JsNnM9m80GyhBqmjcYTYnpdrukH41GQRXY3d0lfRZyV5esXl9fycDZ2RmoNHz//v4eFIGLiwuuZzQaQaHZ29sj+8WQ1e3tLRkIh8OgSvn8/IRXUvCbkMPn8xH/9/d3UEUBcrkcGVhYWAB1evDeuJ6enkAVBcjn89SQ0+mEjnqWlpYob2aAh4cHaogvv9/Phfv4+IDJ8eDfOr5hud1upudgMIBJUQAMa5hVer0ezc/Pc39Ecc3NzVF30HElhlptbW0xN0yzjo+P4bQhdJzfsDZNq/CVG0USAIMvKctATdntdnCnYQbApNNpZLFYmGZKCj8BK5UKuEqRDSDm6uoK7ezscGazs7PMg3AZDAa0urrKPRey2Szs/pmJAvxN/vcACP0CD7ydk7gYAkEAAAAASUVORK5CYII=" InformativeScreenshot="2de7c9ab391f6fdc794f8064580bdd6f.jpg" Reference="Y5PC5QVVukC604Kkrmn1LA/82Wfw5GjIEyH2UFdH233yA" Selector="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" Title="Rpa Challenge" Url="https://rpachallenge.com/" />
             </uix:NApplicationCard.TargetApp>
           </uix:NApplicationCard>
         </State.Entry>
@@ -179,7 +179,7 @@
                   <scg:List x:TypeArguments="Activity" Capacity="4">
                     <uix:NClickTrigger BlockEvent="False" Button="Left" DisplayName="Click Event Trigger 'Submit'" Enabled="True" sap:VirtualizedContainerService.HintSize="512,224" sap2010:WorkflowViewState.IdRef="NClickTrigger_1" IncludeChildren="True" KeyModifiers="None" Mode="Down" SchedulingMode="Sequential" TriggerId="7e06d727-2e4f-4380-84b3-a04a203e4d6c" Version="V3">
                       <uix:NClickTrigger.Target>
-                        <uix:TargetAnchorable BrowserURL="https://rpachallenge.com/" CVScreenId="96a83334-799b-4481-beb0-e8563734a5bc" CvElementArea="582, 646, 120, 41" CvTextArea="612, 658, 58, 14" CvTextArgument="SUBMIT" CvType="Button" DesignTimeRectangle="584, 648, 116, 36" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" Guid="44d4d344-2a69-4a42-9e7f-c4f64aec77c8" InformativeScreenshot="0623cc859d5da6c15fa83b990597a492.png" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V4" />
+                        <uix:TargetAnchorable BrowserURL="https://rpachallenge.com/" CVScreenId="96a83334-799b-4481-beb0-e8563734a5bc" ContentHash="PK1aBtwp4UWytLjP_XIYqQ" CvElementArea="582, 646, 120, 41" CvTextArea="612, 658, 58, 14" CvTextArgument="SUBMIT" CvType="Button" DesignTimeRectangle="584, 648, 116, 36" DesignTimeScaleFactor="1" ElementType="Button" FullSelectorArgument="&lt;webctrl tag='INPUT' type='submit' /&gt;" Guid="44d4d344-2a69-4a42-9e7f-c4f64aec77c8" InformativeScreenshot="0623cc859d5da6c15fa83b990597a492.png" Reference="Y5PC5QVVukC604Kkrmn1LA/mrr5v1NUx0CMpHJ_Ua3jRg" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Rpa Challenge' /&gt;" SearchSteps="Selector" Version="V4" />
                       </uix:NClickTrigger.Target>
                     </uix:NClickTrigger>
                   </scg:List>
@@ -212,9 +212,7 @@
             <Transition.Action>
               <ui:LogMessage DisplayName="Log Message" sap:VirtualizedContainerService.HintSize="334,141" sap2010:WorkflowViewState.IdRef="LogMessage_1" Level="Info" Message="[&quot;User clicked on Submit button&quot;]" />
             </Transition.Action>
-            <Transition.Condition>
-              <VisualBasicValue x:TypeArguments="x:Boolean" DisplayName="Visual basic value" ExpressionText="bln_Clicked" />
-            </Transition.Condition>
+            <Transition.Condition>[bln_Clicked]</Transition.Condition>
           </Transition>
         </State.Transitions>
       </State>
